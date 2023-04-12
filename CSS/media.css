@@ -1,0 +1,1908 @@
+@media (min-width: 300px) {
+  .space {
+    margin-top: 5%;
+  }
+  h1 {
+    font-size: 5rem;
+  }
+
+  /* sparkle */
+  .superscript::after {
+    --size: 6rem;
+  }
+  .move {
+    height: 350px !important;
+    width: 100%;
+  }
+  .head {
+    width: 100%;
+    height: 100px;
+  }
+  .word {
+    font-size: 40px;
+  }
+  #hide {
+    visibility: hidden;
+    width: 100%;
+    height: 335px;
+    margin-left: 0% !important;
+  }
+  .right {
+    width: 100%;
+    height: 250px;
+  }
+  .title {
+    width: 100%;
+    height: 100px;
+  }
+  .title h4 {
+    color: rgb(74, 71, 71);
+    margin-left: 10%;
+    font-size: 22px;
+  }
+  .img1 {
+    border-radius: 50%;
+    width: 30px;
+  }
+  #Time {
+    width: 100%;
+    height: 130px;
+  }
+  #Time .time {
+    width: 100%;
+    height: 130px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+  }
+
+  .mr-mrs {
+    width: 100%;
+    height: 130px;
+  }
+  .mr-mrs img {
+    width: 80%;
+    height: 130px;
+    margin-left: 10%;
+  }
+  .jo {
+    height: 720px;
+    flex-wrap: wrap;
+  }
+  .j1 {
+    width: 100%;
+    height: 350px;
+  }
+  .j1 img {
+    width: 90%;
+    height: 350px;
+    margin-left: 5%;
+    border-radius: 20%;
+  }
+  .j2 {
+    width: 90%;
+    height: 370px;
+    margin-left: 5%;
+  }
+  .j2 h4 {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10%;
+   
+  }
+  .bible {
+    margin-top: 2%;
+    width: 100%;
+    height: 530px;
+  }
+  .aya {
+    width: 80%;
+    left: 7%;
+    position: absolute;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+      rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+      rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  }
+
+  .save {
+    width: 100%;
+    height: 490px;
+  }
+  .b1 {
+    width: 90%;
+    height: 350px;
+    margin-left: 5%;
+  }
+
+  .b1 img {
+    width: 90%;
+    height: 330px;
+    margin-left: 5%;
+  }
+  .d5,
+  .d6,
+  .d7,
+  .p.b {
+    font-size: 30px;
+  }
+
+  .d5,
+  .d6,
+  .d7 {
+    width: 40%;
+    display: flex;
+    margin-top: 10%;
+  }
+  .time2 {
+    width: 100%;
+    height: 100px;
+  }
+  .clock {
+    width: 80%;
+    margin-left: 5%;
+    background: rgba(255, 255, 255, 0.55);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    padding: 20px;
+  }
+  .all {
+    text-align: center;
+    width: 100%;
+  }
+  .clock h5 {
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 3%;
+    color: rgb(55, 55, 55);
+    margin-right: 3%;
+  }
+  .clock img {
+    width: 41px;
+    height: 40px;
+  }
+  .clock h6 {
+    font-size: 30px;
+    display: inline-block;
+    color: rgb(55, 55, 55);
+    margin-left: 7%;
+  }
+  .location {
+    width: 100%;
+    display: flex;
+    height: 700px;
+    flex-wrap: wrap;
+  }
+  .location .church {
+    width: 90%;
+    height: 500px;
+    margin-left: 5%;
+  }
+  .church img {
+    width: 100%;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  }
+  .location .church2 {
+    width: 90%;
+    height: 200px;
+    margin-left: 5%;
+  }
+  .location .church2 h6 {
+    text-align: center;
+    font-size: 20px;
+  }
+  .location .church2 img {
+    position: absolute;
+    left: 40%;
+    margin-top: 2%;
+  }
+  .space {
+    margin-top: 5%;
+  }
+  #Quote {
+    display: none;
+
+    width: 100%;
+    height: 100px;
+  }
+  .quote {
+    width: 87% !important;
+    margin-left: 5% !important;
+    margin-top: -45% !important;
+    z-index: +1;
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    padding: 5px;
+    border-radius: 15px;
+    position: relative;
+    height: 100px;
+  }
+  #Quote h6 {
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(106, 77, 4);
+  }
+}
+@media (min-width: 400px) {
+  .space {
+    margin-top: 5%;
+  }
+  h1 {
+    font-size: 5rem;
+  }
+
+  /* sparkle */
+  .superscript::after {
+    --size: 6rem;
+  }
+  .move {
+    height: 350px !important;
+    width: 100%;
+  }
+  .head {
+    width: 100%;
+    height: 100px;
+  }
+  .word {
+    font-size: 45px;
+  }
+  #hide {
+    visibility: hidden;
+    width: 100%;
+    height: 250px;
+    margin-left: 0% !important;
+  }
+  .right {
+    width: 100%;
+    height: 250px;
+  }
+  .title {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .title h4 {
+    color: rgb(74, 71, 71);
+    margin-left: 10%;
+    font-size: 25px;
+  }
+  .img1 {
+    border-radius: 50%;
+    width: 30px;
+  }
+  #Time {
+    width: 100%;
+    height: 130px;
+  }
+  #Time .time {
+    width: 100%;
+    height: 130px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+  }
+
+  .mr-mrs {
+    width: 100%;
+    height: 100px;
+  }
+  .mr-mrs img {
+    width: 80%;
+    margin-left: 10%;
+  }
+  .jo {
+    height: 700px;
+    flex-wrap: wrap;
+  }
+  .j1 {
+    width: 100%;
+    height: 400px;
+  }
+  .j1 img {
+    width: 80%;
+    height: 400px;
+    margin-left: 5%;
+    border-radius: 20%;
+  }
+  .j2 {
+    width: 90%;
+    height: 300px;
+    margin-left: 5%;
+  }
+  .j2 h4 {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10%;
+   
+  }
+  .aya {
+    width: 80%;
+    left: 10%;
+    position: absolute;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+      rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+      rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  }
+  .bible {
+    margin-top: 2%;
+    width: 100%;
+    height: 450px;
+  }
+  .save {
+    width: 100%;
+    height: 490px;
+  }
+  .b1 {
+    width: 90%;
+    height: 350px;
+    margin-left: 5%;
+  }
+
+  .b1 img {
+    width: 90%;
+    height: 330px;
+    margin-left: 5%;
+  }
+  .d5,
+  .d6,
+  .d7,
+  .p.b {
+    font-size: 35px;
+  }
+
+  .d5,
+  .d6,
+  .d7 {
+    width: 40%;
+    display: flex;
+    margin-top: 6%;
+  }
+  .time2 {
+    width: 100%;
+    height: 100px;
+  }
+  .clock {
+    width: 60%;
+    margin-left: 15%;
+    background: rgba(255, 255, 255, 0.55);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    padding: 20px;
+  }
+  .all {
+    text-align: center;
+    width: 100%;
+  }
+  .clock h5 {
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 3%;
+    color: rgb(55, 55, 55);
+    margin-right: 3%;
+  }
+  .clock img {
+    width: 41px;
+    height: 40px;
+  }
+  .clock h6 {
+    font-size: 30px;
+    display: inline-block;
+    color: rgb(55, 55, 55);
+    margin-left: 7%;
+  }
+  .location {
+    width: 100%;
+    display: flex;
+    height: 700px;
+    flex-wrap: wrap;
+  }
+  .location .church {
+    width: 90%;
+    height: 500px;
+    margin-left: 5%;
+  }
+  .church img {
+    width: 80%;
+    margin-left: 10%;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  }
+  .location .church2 {
+    width: 80%;
+    height: 200px;
+    margin-left: 10%;
+  }
+  .location .church2 h6 {
+    text-align: center;
+    font-size: 20px;
+  }
+  .location .church2 img {
+    position: absolute;
+    left: 40%;
+    margin-top: 2%;
+  }
+  .space {
+    margin-top: 5%;
+  }
+  #Quote {
+    display: none;
+
+    width: 100%;
+    height: 100px;
+  }
+  .quote {
+    width: 80% !important;
+    margin-left: 12% !important;
+    margin-top: -33% !important;
+    z-index: +1;
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    padding: 5px;
+    border-radius: 15px;
+    position: relative;
+    height: 100px;
+  }
+  #Quote h6 {
+    margin-top: 30px;
+    font-size: 30px;
+    text-align: center;
+    color: rgb(106, 77, 4);
+  }
+}
+@media (min-width: 500px) {
+  .space {
+    margin-top: 5%;
+  }
+  h1 {
+    font-size: 5rem;
+  }
+
+  /* sparkle */
+  .superscript::after {
+    --size: 6rem;
+  }
+  .move {
+    height: 350px !important;
+    width: 100%;
+  }
+  .head {
+    width: 100%;
+    height: 100px;
+  }
+  .word {
+    font-size: 50px;
+  }
+  #hide {
+    visibility: hidden;
+    width: 100%;
+    height: 250px;
+    margin-left: 0% !important;
+  }
+  .right {
+    width: 100%;
+    height: 250px;
+  }
+  .title {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .title h4 {
+    color: rgb(74, 71, 71);
+    margin-left: 10%;
+    font-size: 25px;
+  }
+  .img1 {
+    border-radius: 50%;
+    width: 30px;
+  }
+  #Time {
+    width: 100%;
+    height: 130px;
+  }
+  #Time .time {
+    width: 100%;
+    height: 130px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+  }
+
+  .mr-mrs {
+    width: 100%;
+    height: 130px;
+  }
+  .mr-mrs img {
+    width: 80%;
+    height: 130px;
+    margin-left: 10%;
+  }
+  .jo {
+    height: 700px;
+    flex-wrap: wrap;
+  }
+  .j1 {
+    width: 80%;
+    margin-left: 10%;
+    height: 350px;
+  }
+  .j1 img {
+    width: 75%;
+    height: 350px;
+    margin-left: 15%;
+    border-radius: 20%;
+  }
+  .j2 {
+    width: 70%;
+    height: 350px;
+    margin-left: 15%;
+  }
+  .j2 h4 {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10%;
+   
+  }
+  .aya {
+    width: 70%;
+    left: 14%;
+    position: absolute;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+      rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+      rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  }
+  .bible {
+    margin-top: 2%;
+    width: 100%;
+    height: 450px;
+  }
+  .save {
+    width: 100%;
+    height: 490px;
+  }
+  .b1 {
+    width: 90%;
+    height: 350px;
+    margin-left: 5%;
+  }
+
+  .b1 img {
+    width: 90%;
+    height: 330px;
+    margin-left: 5%;
+  }
+  .d5,
+  .d6,
+  .d7,
+  .p.b {
+    font-size: 40px;
+  }
+
+  .d5,
+  .d6,
+  .d7 {
+    width: 40%;
+    display: flex;
+    margin-top: 8%;
+  }
+  .time2 {
+    width: 100%;
+    height: 100px;
+  }
+  .clock {
+    width: 60%;
+    margin-left: 15%;
+    background: rgba(255, 255, 255, 0.55);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    padding: 20px;
+  }
+  .all {
+    text-align: center;
+    width: 100%;
+  }
+  .clock h5 {
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 3%;
+    color: rgb(55, 55, 55);
+    margin-right: 3%;
+  }
+  .clock img {
+    width: 41px;
+    height: 40px;
+  }
+  .clock h6 {
+    font-size: 30px;
+    display: inline-block;
+    color: rgb(55, 55, 55);
+    margin-left: 7%;
+  }
+  .location {
+    width: 100%;
+    display: flex;
+    height: 700px;
+    flex-wrap: wrap;
+  }
+  .location .church {
+    height: 500px;
+    width: 80%;
+    margin-left: 10%;
+  }
+  .church img {
+    width: 90%;
+    margin-left: 5%;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  }
+  .location .church2 {
+    width: 80%;
+    height: 200px;
+    margin-left: 10%;
+  }
+  .location .church2 h6 {
+    text-align: center;
+    font-size: 20px;
+  }
+  .location .church2 img {
+    position: absolute;
+    left: 45%;
+    margin-top: 3%;
+  }
+  .space {
+    margin-top: 5%;
+  }
+
+  #Quote {
+    display: none;
+
+    width: 100%;
+    height: 100px;
+  }
+  .quote {
+    width: 60% !important;
+    margin-left: 22% !important;
+    margin-top: -25% !important;
+    z-index: +1;
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    padding: 5px;
+    border-radius: 15px;
+    position: relative;
+    height: 100px;
+  }
+}
+@media (min-width: 600px) {
+  .space {
+    margin-top: 5%;
+  }
+  h1 {
+    font-size: 5rem;
+  }
+
+  /* sparkle */
+  .superscript::after {
+    --size: 6rem;
+  }
+  .move {
+    height: 350px !important;
+    width: 100%;
+  }
+  .head {
+    width: 100%;
+    height: 100px;
+  }
+  .word {
+    font-size: 55px;
+  }
+  #hide {
+    visibility: hidden;
+    width: 100%;
+    height: 250px;
+    margin-left: 0% !important;
+  }
+  .right {
+    width: 100%;
+    height: 250px;
+  }
+  .title {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .title h4 {
+    color: rgb(74, 71, 71);
+    margin-left: 10%;
+    font-size: 25px;
+  }
+  .img1 {
+    border-radius: 50%;
+    width: 30px;
+  }
+  #Time {
+    width: 100%;
+    height: 130px;
+  }
+  #Time .time {
+    width: 100%;
+    height: 130px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+  }
+
+  .mr-mrs {
+    width: 100%;
+    height: 130px;
+  }
+  .mr-mrs img {
+    width: 75%;
+    height: 130px;
+    margin-left: 15%;
+  }
+  .jo {
+    height: 720px;
+    flex-wrap: wrap;
+  }
+  .j1 {
+    width: 80%;
+    margin-left: 10%;
+    height: 400px;
+  }
+  .j1 img {
+    width: 70%;
+    height: 400px;
+    margin-left: 20%;
+    border-radius: 20%;
+  }
+  .j2 {
+    width: 60%;
+    height: 320px;
+    margin-left: 20%;
+  }
+  .j2 h4 {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10%;
+   
+  }
+  .aya {
+    width: 70%;
+    left: 14%;
+    position: absolute;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+      rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+      rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  }
+  .bible {
+    margin-top: 2%;
+    width: 100%;
+    height: 400px;
+  }
+  .save {
+    width: 100%;
+    height: 490px;
+  }
+  .b1 {
+    width: 90%;
+    height: 350px;
+    margin-left: 5%;
+  }
+
+  .b1 img {
+    width: 80%;
+    height: 330px;
+    margin-left: 10%;
+  }
+  .d5,
+  .d6,
+  .d7,
+  .p.b {
+    font-size: 40px;
+  }
+
+  .d5,
+  .d6,
+  .d7 {
+    width: 40%;
+    display: flex;
+    margin-top: 5%;
+  }
+  .time2 {
+    width: 100%;
+    height: 100px;
+  }
+  .clock {
+    width: 50%;
+    margin-left: 22%;
+    background: rgba(255, 255, 255, 0.55);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    padding: 20px;
+  }
+  .all {
+    text-align: center;
+    width: 100%;
+  }
+  .clock h5 {
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 3%;
+    color: rgb(55, 55, 55);
+    margin-right: 3%;
+  }
+  .clock img {
+    width: 41px;
+    height: 40px;
+  }
+  .clock h6 {
+    font-size: 30px;
+    display: inline-block;
+    color: rgb(55, 55, 55);
+    margin-left: 7%;
+  }
+  .location {
+    width: 100%;
+    display: flex;
+    height:720px;
+    flex-wrap: wrap;
+  }
+  .location .church {
+    height: 450px;
+    width: 80%;
+    margin-left: 10%;
+  }
+  .church img {
+    width: 70%;
+    margin-left: 15%;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  }
+  .location .church2 {
+    width: 60%;
+    height: 150px;
+    margin-left: 20%;
+  }
+  .location .church2 h6 {
+    text-align: center;
+    font-size: 20px;
+  }
+  .location .church2 img {
+    position: absolute;
+    left: 42%;
+    margin-top: 3%;
+  }
+  .space {
+    margin-top: 5%;
+  }
+  #Quote {
+    display: none;
+
+    width: 100%;
+    height: 100px;
+  }
+  .quote {
+    width: 47% !important;
+    margin-left: 28% !important;
+    margin-top: -22% !important;
+    z-index: +1;
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    padding: 5px;
+    border-radius: 15px;
+    position: relative;
+    height: 100px;
+  }
+}
+
+@media (min-width: 700px) {
+  .space {
+    margin-top: 5%;
+  }
+  h1 {
+    font-size: 5rem;
+  }
+
+  /* sparkle */
+  .superscript::after {
+    --size: 6rem;
+  }
+  .move {
+    height: 350px !important;
+    width: 100%;
+  }
+  .head {
+    width: 100%;
+    height: 100px;
+  }
+  .word {
+    font-size: 55px;
+  }
+  #hide {
+    visibility: hidden;
+    width: 100%;
+    height: 250px;
+    margin-left: 0% !important;
+  }
+  .right {
+    width: 100%;
+    height: 250px;
+  }
+  .title {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .title h4 {
+    color: rgb(74, 71, 71);
+    margin-left: 10%;
+    font-size: 25px;
+  }
+  .img1 {
+    border-radius: 50%;
+    width: 30px;
+  }
+  #Time {
+    width: 100%;
+    height: 130px;
+  }
+  #Time .time {
+    width: 100%;
+    height: 130px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+  }
+
+  .mr-mrs {
+    width: 100%;
+    height: 150px;
+  }
+  .mr-mrs img {
+    width: 60%;
+    height: 150px;
+    margin-left: 20%;
+  }
+  .jo {
+    height: 600px;
+    flex-wrap: nowrap;
+  }
+  .j1 {
+    width: 50%;
+    margin-left: 5%;
+    height: 500px;
+  }
+  .j1 img {
+    width: 90%;
+    height: 500px;
+    margin-left: 5%;
+    border-radius: 20%;
+  }
+  .j2 {
+    width: 40%;
+    height: 500px;
+    margin-top: 15%;
+    margin-left: 0%;
+  }
+  .j2 h4 {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10%;
+   
+  }
+  .aya {
+    width: 80%;
+    left: 10%;
+    position: absolute;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+      rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+      rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  }
+  .bible {
+    margin-top: 2%;
+    width: 100%;
+    height: 400px;
+  }
+  .save {
+    width: 100%;
+    height: 490px;
+  }
+  .b1 {
+    width: 90%;
+    height: 350px;
+    margin-left: 5%;
+  }
+
+  .b1 img {
+    width: 80%;
+    height: 330px;
+    margin-left: 10%;
+  }
+  .d5,
+  .d6,
+  .d7,
+  .p.b {
+    font-size: 40px;
+  }
+
+  .d5,
+  .d6,
+  .d7 {
+    width: 40%;
+    display: flex;
+    margin-top: 5%;
+  }
+  .time2 {
+    width: 100%;
+    height: 100px;
+  }
+  .clock {
+    width: 50%;
+    margin-left: 22%;
+    background: rgba(255, 255, 255, 0.55);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    padding: 20px;
+  }
+  .all {
+    text-align: center;
+    width: 100%;
+  }
+  .clock h5 {
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 3%;
+    color: rgb(55, 55, 55);
+    margin-right: 3%;
+  }
+  .clock img {
+    width: 41px;
+    height: 40px;
+  }
+  .clock h6 {
+    font-size: 30px;
+    display: inline-block;
+    color: rgb(55, 55, 55);
+    margin-left: 7%;
+  }
+  .location {
+    width: 100%;
+    display: flex;
+    height: 400px;
+    flex-wrap: nowrap;
+  }
+  .location .church {
+    height: 400px;
+    width: 60%;
+    margin-left: 0%;
+  }
+  .church img {
+    height: 400px;
+    width: 70%;
+    margin-left: 15%;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  }
+  .location .church2 {
+    height: 400px;
+    width: 30%;
+    margin-left: 0%;
+  }
+  .location .church2 h6 {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20%;
+  }
+  .location .church2 img {
+    position: absolute;
+    left: 70%;
+    margin-top: 3%;
+  }
+  .space {
+    margin-top: 5%;
+  }
+  #Quote {
+    display: none;
+
+    width: 100%;
+    height: 100px;
+  }
+  .quote {
+    width: 45% !important;
+    margin-left: 31% !important;
+    margin-top: -18% !important;
+    z-index: +1;
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    padding: 5px;
+    border-radius: 15px;
+    position: relative;
+    height: 100px;
+  }
+}
+@media (min-width: 800px) {
+  .space {
+    margin-top: 5%;
+  }
+  h1 {
+    font-size: 5rem;
+  }
+
+  /* sparkle */
+  .superscript::after {
+    --size: 6rem;
+  }
+  .move {
+    height: 350px !important;
+    width: 100%;
+  }
+  .head {
+    width: 100%;
+    height: 100px;
+  }
+  .word {
+    font-size: 55px;
+  }
+  #hide {
+    visibility: hidden;
+    width: 100%;
+    height: 250px;
+    margin-left: 0% !important;
+  }
+  .right {
+    width: 100%;
+    height: 250px;
+  }
+  .title {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .title h4 {
+    color: rgb(74, 71, 71);
+    margin-left: 10%;
+    font-size: 25px;
+  }
+  .img1 {
+    border-radius: 50%;
+    width: 30px;
+  }
+  #Time {
+    width: 100%;
+    height: 130px;
+  }
+  #Time .time {
+    width: 100%;
+    height: 130px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+  }
+
+  .mr-mrs {
+    width: 100%;
+    height: 150px;
+  }
+  .mr-mrs img {
+    width: 60%;
+    height: 150px;
+    margin-left: 20%;
+  }
+  .jo {
+    height: 600px;
+    flex-wrap: nowrap;
+  }
+  .j1 {
+    width: 50%;
+    margin-left: 5%;
+    height: 500px;
+  }
+  .j1 img {
+    width: 90%;
+    height: 500px;
+    margin-left: 5%;
+    border-radius: 20%;
+  }
+  .j2 {
+    width: 40%;
+    height: 500px;
+    margin-top: 15%;
+    margin-left: 0%;
+  }
+  .j2 h4 {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10%;
+   
+  }
+  .aya {
+    width: 80%;
+    left: 10%;
+    position: absolute;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+      rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+      rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  }
+  .bible {
+    margin-top: 2%;
+    width: 100%;
+    height: 400px;
+  }
+  .save {
+    width: 100%;
+    height: 490px;
+  }
+  .b1 {
+    width: 90%;
+    height: 350px;
+    margin-left: 5%;
+  }
+
+  .b1 img {
+    width: 80%;
+    height: 330px;
+    margin-left: 10%;
+  }
+  .d5,
+  .d6,
+  .d7,
+  .p.b {
+    font-size: 40px;
+  }
+
+  .d5,
+  .d6,
+  .d7 {
+    width: 40%;
+    display: flex;
+    margin-top: 5%;
+  }
+  .time2 {
+    width: 100%;
+    height: 100px;
+  }
+  .clock {
+    width: 50%;
+    margin-left: 22%;
+    background: rgba(255, 255, 255, 0.55);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    padding: 20px;
+  }
+  .all {
+    text-align: center;
+    width: 100%;
+  }
+  .clock h5 {
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 3%;
+    color: rgb(55, 55, 55);
+    margin-right: 3%;
+  }
+  .clock img {
+    width: 41px;
+    height: 40px;
+  }
+  .clock h6 {
+    font-size: 30px;
+    display: inline-block;
+    color: rgb(55, 55, 55);
+    margin-left: 7%;
+  }
+  .location {
+    width: 100%;
+    display: flex;
+    height: 400px;
+    flex-wrap: nowrap;
+  }
+  .location .church {
+    height: 400px;
+    width: 60%;
+    margin-left: 0%;
+  }
+  .church img {
+    height: 400px;
+    width: 70%;
+    margin-left: 15%;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  }
+  .location .church2 {
+    height: 400px;
+    width: 30%;
+    margin-left: 0%;
+  }
+  .location .church2 h6 {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20%;
+  }
+  .location .church2 img {
+    position: absolute;
+    left: 70%;
+    margin-top: 3%;
+  }
+  .space {
+    margin-top: 5%;
+  }
+  #Quote {
+    display: none;
+
+    width: 100%;
+    height: 100px;
+  }
+  .quote {
+    width: 45% !important;
+    margin-left: 31% !important;
+    margin-top: -18% !important;
+    z-index: +1;
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    padding: 5px;
+    border-radius: 15px;
+    position: relative;
+    height: 100px;
+  }
+}
+@media (min-width: 900px) {
+  .space {
+    margin-top: 5%;
+  }
+  h1 {
+    font-size: 5rem;
+  }
+
+  /* sparkle */
+  .superscript::after {
+    --size: 6rem;
+  }
+  .move {
+    height: 350px !important;
+    width: 100%;
+  }
+  .head {
+    width: 100%;
+    height: 100px;
+  }
+  .word {
+    font-size: 55px;
+  }
+  #hide {
+    visibility: hidden;
+    width: 100%;
+    height: 250px;
+    margin-left: 0% !important;
+  }
+  .right {
+    width: 100%;
+    height: 250px;
+  }
+  .title {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .title h4 {
+    color: rgb(74, 71, 71);
+    margin-left: 10%;
+    font-size: 25px;
+  }
+  .img1 {
+    border-radius: 50%;
+    width: 30px;
+  }
+  #Time {
+    width: 100%;
+    height: 130px;
+  }
+  #Time .time {
+    width: 100%;
+    height: 130px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+  }
+
+  .mr-mrs {
+    width: 100%;
+    height: 150px;
+  }
+  .mr-mrs img {
+    width: 60%;
+    height: 150px;
+    margin-left: 20%;
+  }
+  .jo {
+    height: 600px;
+    flex-wrap: nowrap;
+  }
+  .j1 {
+    width: 50%;
+    margin-left: 5%;
+    height: 500px;
+  }
+  .j1 img {
+    width: 90%;
+    height: 500px;
+    margin-left: 5%;
+    border-radius: 20%;
+  }
+  .j2 {
+    width: 40%;
+    height: 500px;
+    margin-top: 15%;
+    margin-left: 0%;
+  }
+  .j2 h4 {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10%;
+   
+  }
+  .aya {
+    width: 80%;
+    left: 10%;
+    position: absolute;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+      rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+      rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  }
+  .bible {
+    margin-top: 2%;
+    width: 100%;
+    height: 400px;
+  }
+  .save {
+    width: 100%;
+    height: 490px;
+  }
+  .b1 {
+    width: 90%;
+    height: 350px;
+    margin-left: 5%;
+  }
+
+  .b1 img {
+    width: 80%;
+    height: 330px;
+    margin-left: 10%;
+  }
+  .d5,
+  .d6,
+  .d7,
+  .p.b {
+    font-size: 40px;
+  }
+
+  .d5,
+  .d6,
+  .d7 {
+    width: 40%;
+    display: flex;
+    margin-top: 5%;
+  }
+  .time2 {
+    width: 100%;
+    height: 100px;
+  }
+  .clock {
+    width: 50%;
+    margin-left: 22%;
+    background: rgba(255, 255, 255, 0.55);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    padding: 20px;
+  }
+  .all {
+    text-align: center;
+    width: 100%;
+  }
+  .clock h5 {
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 3%;
+    color: rgb(55, 55, 55);
+    margin-right: 3%;
+  }
+  .clock img {
+    width: 41px;
+    height: 40px;
+  }
+  .clock h6 {
+    font-size: 30px;
+    display: inline-block;
+    color: rgb(55, 55, 55);
+    margin-left: 7%;
+  }
+  .location {
+    width: 100%;
+    display: flex;
+    height: 400px;
+    flex-wrap: nowrap;
+  }
+  .location .church {
+    height: 400px;
+    width: 60%;
+    margin-left: 0%;
+  }
+  .church img {
+    height: 400px;
+    width: 70%;
+    margin-left: 15%;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  }
+  .location .church2 {
+    height: 400px;
+    width: 30%;
+    margin-left: 0%;
+  }
+  .location .church2 h6 {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20%;
+  }
+  .location .church2 img {
+    position: absolute;
+    left: 72%;
+    margin-top: 3%;
+  }
+  .space {
+    margin-top: 5%;
+  }
+  #Quote {
+    display: none;
+
+    width: 100%;
+    height: 100px;
+  }
+  .quote {
+    width: 45% !important;
+    margin-left: 31% !important;
+    margin-top: -18% !important;
+    z-index: +1;
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    padding: 5px;
+    border-radius: 15px;
+    position: relative;
+    height: 100px;
+  }
+}
+@media (min-width: 1000px) {
+  .space {
+    margin-top: 5%;
+  }
+  h1 {
+    font-size: 5rem;
+  }
+
+  /* sparkle */
+  .superscript::after {
+    --size: 6rem;
+  }
+  .move {
+    height: 635px !important;
+    width: 100%;
+  }
+  .head {
+    width: 100%;
+    height: 300px;
+  }
+  .word {
+    font-size: 90px;
+  }
+  #hide {
+    visibility: hidden;
+    width: 100%;
+    height: 335px;
+    margin-left: 20% !important;
+  }
+  .right {
+    width: 100%;
+    height: 335px;
+  }
+  .title {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .title h4 {
+    color: rgb(74, 71, 71);
+    margin-left: 7%;
+    font-size: 30px;
+  }
+  .img1 {
+    border-radius: 50%;
+    width: 30px;
+  }
+  #Time {
+    width: 100%;
+    height: 130px;
+  }
+  #Time .time {
+    width: 100%;
+    height: 130px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+  }
+
+  .mr-mrs {
+    width: 100%;
+    height: 220px;
+  }
+  .mr-mrs img {
+    width: 60%;
+    height: 220px;
+    margin-left: 20%;
+  }
+  .jo {
+    width: 100%;
+    height: 500px;
+    margin-top: 5%;
+    display: flex;
+  }
+  .j1 {
+    width: 40%;
+    height: 500px;
+  }
+  .j1 img {
+    width: 90%;
+    height: 500px;
+    margin-left: 10%;
+    border-radius: 20%;
+  }
+  .j2 {
+    width: 30%;
+    height: 500px;
+    margin-left: 10%;
+    margin-top: 10%;
+  }
+  .j2 h4 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5%;
+   
+  }
+  .bible {
+    margin-top: 2%;
+    width: 100%;
+    height: 330px;
+  }
+  .aya {
+    width: 60%;
+    left: 20%;
+    position: absolute;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+      rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+      rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  }
+  .save {
+    width: 100%;
+    height: 490px;
+  }
+  .b1 {
+    width: 90%;
+    height: 350px;
+    margin-left: 5%;
+  }
+
+  .b1 img {
+    width: 80%;
+    height: 330px;
+    margin-left: 10%;
+  }
+  .d5,
+  .d6,
+  .d7,
+  .p.b {
+    font-size: 50px;
+  }
+
+  .d5,
+  .d6,
+  .d7 {
+    width: 40%;
+    display: flex;
+    margin-top: 1%;
+  }
+  .time2 {
+    width: 100%;
+    height: 100px;
+  }
+  .clock {
+    width: 40%;
+    margin-left: 30%;
+    background: rgba(255, 255, 255, 0.55);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    padding: 20px;
+  }
+  .all {
+    text-align: center;
+    width: 100%;
+  }
+  .clock h5 {
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 3%;
+    color: rgb(55, 55, 55);
+    margin-right: 3%;
+  }
+  .clock img {
+    width: 41px;
+    height: 40px;
+  }
+  .clock h6 {
+    font-size: 30px;
+    display: inline-block;
+    color: rgb(55, 55, 55);
+    margin-left: 7%;
+  }
+  .location {
+    width: 100%;
+    display: flex;
+    height: 400px;
+    flex-wrap: nowrap;
+  }
+  .location .church {
+    height: 400px;
+    width: 30%;
+    margin-left: 10%;
+  }
+  .church img {
+    height: 400px;
+    width: 100%;
+    margin-left: 0%;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  }
+  .location .church2 {
+    height: 400px;
+    width: 30%;
+    margin-left: 10%;
+  }
+  .location .church2 h6 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20%;
+  }
+  .location .church2 img {
+    position: absolute;
+    left: 63%;
+    margin-top: 3%;
+  }
+  .space {
+    margin-top: 5%;
+  }
+
+  #Quote {
+    display: none;
+    width: 100%;
+    height: 100px;
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    padding: 5px;
+    border-radius: 15px;
+  }
+  .quote {
+    width: 70%;
+    height: 100px;
+  }
+  #Quote {
+    display: none;
+
+    width: 100%;
+    height: 100px;
+  }
+  .quote {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: -22%;
+    z-index: +1;
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    padding: 5px;
+    border-radius: 15px;
+    position: relative;
+    height: 100px;
+  }
+}
